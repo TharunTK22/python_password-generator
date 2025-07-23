@@ -1,0 +1,12 @@
+This file prevents you from uploading unnecessary system-generated files.
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+venv/
+env/
